@@ -6,6 +6,7 @@ controller.run_calc()
 
 
 
+
 # import sympy   догадаетесь сами, где может пригодиться)
 
 # expr = input('Enter expr: ')
